@@ -1,1 +1,1 @@
-# git-3
+# Bash rules!
